@@ -1,0 +1,126 @@
+button {
+  display: block;
+}
+.header {
+  background: url("../images/bg.png");
+  height: 850px;
+  background-repeat: no-repeat;
+  background-position-x: center;
+}
+.nav1 {
+  padding-top: 20px;
+}
+.search {
+  display: block;
+  background: transparent;
+  border: none;
+  border-bottom: solid 1px;
+  background-image: url("../images/ico_search.svg");
+  background-position-x: right;
+  background-repeat: no-repeat;
+  background-position-y: center;
+  width: 350px;
+}
+.navbar-nav {
+  margin-left: auto;
+  padding-top: 28px;
+  font-size: 18px;
+  color: #324950;
+}
+.title1 {
+  padding-top: 229px;
+  color: #735440;
+  text-align: center;
+  font-size: 48px;
+}
+.more {
+  background: #57984c;
+  color: white;
+  padding: 16px 31px;
+  border: none;
+  margin: auto;
+  margin-top: 60px;
+}
+.Products {
+  padding-top: 35px;
+  height: 170px;
+  text-align: center;
+}
+.Products a {
+  margin: 3%;
+  color: white;
+}
+.Vision-Mission {
+  color: #324950;
+  background: #e5e5e5;
+  background-image: url("../images/Union.svg");
+  background-repeat: no-repeat;
+}
+
+.Vision-Mission h1 {
+  padding-top: 100px;
+  font-size: 64px;
+}
+.Vision-Mission h2 {
+  font-size: 18px;
+  color: #57984c;
+}
+.Vision-Mission p {
+  font-size: 20px;
+  color: #4d646b;
+}
+.Main-activ {
+  color: #324950;
+  background: #ededed;
+}
+.title2 {
+  padding-top: 70px;
+  color: #324950;
+  text-align: center;
+  font-size: 64px;
+}
+.footer {
+  background: #2d3f45;
+}
+.footer2 {
+  background: #324950;
+}
+
+.title3 {
+  padding-top: 18px;
+  color: #b9b9b9;
+  text-align: center;
+  font-size: 14px;
+  height: 50px;
+}
+.footer-row__item {
+  color: #324950;
+  margin: 21px 13.8px;
+}
+.navbar {
+  color: #2d3f45;
+  padding-bottom: 0;
+}
+.line {
+  width: 180px;
+  height: 1px;
+  background-color: #57984c;
+  margin: auto;
+}
+.itd_circle {
+  margin: 0 auto 15px;
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  padding: 0px 30px;
+}
+h5 {
+  color: #57984c;
+  font-size: 24px;
+}
+.Main-activ p {
+  width: 280px;
+  margin: auto;
+  text-align: center;
+  padding-bottom: 90px;
+}
