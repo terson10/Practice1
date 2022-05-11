@@ -180,7 +180,6 @@ h5 {
 .line-r2 {
   margin-top: 40px;
   margin-bottom: 0px;
-  
   background-image: url(../images/line_r2.svg);
   background-repeat: no-repeat;
   padding-left:26px;
@@ -212,4 +211,86 @@ text-align: center;
 }
 .a-n{
   text-decoration: none;
+}
+.main1002{
+  background-color: #E5E5E5;
+  background-image: url(../images/Uniont.svg);
+  background-repeat: no-repeat;
+  background-position-x: center;
+}
+.arow{    
+  background-image: url(../images/Arrow1.svg);
+  background-repeat: no-repeat;
+  background-position-y: center;
+  padding-left:40px;
+  padding-bottom: 18px;
+  padding-top: 18px;
+}
+.arow h5{
+  font-size: 14px;
+  margin-bottom: auto;
+}
+.main_tx{
+padding-right: 44px;
+padding-bottom:40px ;
+}
+.main_tx h1{
+  font-size: 54px;
+  color: #324950;
+}
+.main_tx h2{
+  font-size: 54px;
+  color: #57984C;
+  padding-bottom: 40px;
+}
+.main_tr {
+  color: #CF2333;
+  margin-bottom: 40px;
+}
+.main_tr h1{
+  font-size: 30px;
+}
+.tom_ch{
+  font-size: 20px;
+  color: #57984C;
+  padding-bottom: 12px;
+  border-bottom: solid 1px;
+  width: 183px;
+}
+.tomato_li{ 
+  color: #324950;
+  font-size: 17px;
+  padding-bottom: 168px;
+}
+.tomato_li h1{
+  font-size: 20px;
+  color: #57984C;
+  padding-bottom: 12px;
+  border-bottom: solid 1px;
+  width: 183px;
+}
+.i_circle{  
+  color: #57984c;
+  margin-top: 30px;
+  border: 2px solid;
+  border-radius: 60px;
+  display: inline-flex;
+padding: 10px 28px;
+}
+.i_circle p{
+  margin: auto;
+  padding-left: 20px;
+}
+.tomato_li h5{
+  font-size: 20px;
+  color: #57984C;
+  padding-bottom: 12px;
+  border-bottom: solid 1px;
+  width: 183px;
+}
+.tomato_li li::marker{
+  color: #57984c;
+}
+.tomato_li ul{
+  padding-left: 20px;
 }
