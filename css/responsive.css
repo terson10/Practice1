@@ -1,0 +1,21 @@
+@media (max-width: 768px) {
+   .logo {
+      display: block;
+      margin: 0 auto 15px;
+  }   
+  .main1002 h1{
+   font-size: 20px;
+   }
+   .main_tx h2{
+   font-size: 20px;
+   }
+ }
+ 
+ @media (max-width: 480px) {
+.main1002 h1{
+   font-size: 20px;
+}
+.main_tx h2{
+   font-size: 20px;
+}
+ }
